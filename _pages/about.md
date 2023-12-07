@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 I am a master student in Xinjiang University since 2022, exploring the field of Prompt-based Generation Natural Language Processing.
+You can contact me by 1354527247@qq.com
